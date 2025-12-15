@@ -8,7 +8,7 @@ Proje, belirli kısıtlamalar altında (sıcaklık ve süre sınırları) en yü
 
 * **Adı:** Ceyda
 * **Soyadı:** Metin
-* **Okul Numarası:** [BURAYA OKUL NUMARANI YAZ]
+* **Okul Numarası:** 2212721025
 * **Ders:** Yapay Zeka / Algoritmalar (Dersin Tam Adı)
 
 ---
